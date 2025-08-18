@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">دفتر الحسابات</string>
-    <string name="add_account">إضافة حساب</string>
-    <string name="save">حفظ</string>
-    <string name="account_name">اسم الحساب</string>
-    <string name="initial_balance">الرصيد الابتدائي</string>
-    <string name="success">تمت العملية بنجاح!</string>
-</resources>
